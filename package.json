@@ -1,0 +1,31 @@
+{
+  "name": "gaming-back-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D This will be a log for gamers to track their current backlog of games, and what they still need to beat!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tammerg/GamingBackLog.git"
+  },
+  "keywords": [
+    "["
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tammerg/GamingBackLog/issues"
+  },
+  "homepage": "https://github.com/tammerg/GamingBackLog#readme",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
